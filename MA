@@ -1,0 +1,7 @@
+{
+  "name": "0xAED",
+  "website": "https://twitter.com/EmreTFA",
+  "description": "try",
+  "logo": "https://i.hizliresim.com/7qqmkic.png",
+  "twitter": "https://twitter.com/EmreTFA"
+}
